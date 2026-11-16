@@ -1,0 +1,26 @@
+[
+  {
+    "id": "1",
+    "titulo": "Minicurso: Introdução ao Desenvolvimento Web",
+    "horario": "2026-11-24T19:00:00-03:00",
+    "local": "Laboratório D1 - DCOMP",
+    "descricao": "Minicurso ministrado por Gyannine Candeias e Lauane Morais.",
+    "criadoPor": "usr-001"
+  },
+  {
+    "id": "2",
+    "titulo": "Minicurso: Enzo e Pedro te ensinam a fazer o pior site do mundo",
+    "horario": "2026-11-23T14:30:00-03:00",
+    "local": "Laboratório D1 - DCOMP",
+    "descricao": "Minicurso ministrado por Enzo Maia e Pedro Paulo.",
+    "criadoPor": "usr-001"
+  },
+  {
+    "id": "3",
+    "titulo": "Palestra: O TAL DO ALGORITMO - como o Instagram decide o que você vê?",
+    "horario": "2026-11-25T19:00:00-03:00",
+    "local": "Auditório DCOMP",
+    "descricao": "Palestra ministrada por Felipe Quentino e Bruno Saint Clair.",
+    "criadoPor": "usr-001"
+  }
+]

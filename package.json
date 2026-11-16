@@ -1,0 +1,29 @@
+{
+  "name": "nivelamento-auth",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Exemplo didático de autenticação com JWT para a SEMAC/UFS (LAWD)",
+  "type": "module",
+  "scripts": {
+    "dev": "concurrently -n servidor,cliente -c blue,green \"npm:dev:servidor\" \"npm:dev:cliente\"",
+    "dev:servidor": "node --watch server/index.js",
+    "dev:cliente": "vite client",
+    "build": "vite build client",
+    "start": "node server/index.js",
+    "seed": "node server/scripts/gerar-senhas.js"
+  },
+  "dependencies": {
+    "bcryptjs": "^3.0.2",
+    "express": "^4.21.2",
+    "express-rate-limit": "^7.5.0",
+    "jsonwebtoken": "^9.0.2",
+    "react": "^19.1.0",
+    "react-dom": "^19.1.0",
+    "react-router-dom": "^7.6.2"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-react": "^4.4.1",
+    "concurrently": "^9.1.2",
+    "vite": "^6.3.5"
+  }
+}

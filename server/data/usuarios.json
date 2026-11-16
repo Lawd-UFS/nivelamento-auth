@@ -1,0 +1,72 @@
+[
+  {
+    "id": "usr-001",
+    "nome": "Felipe Quentino",
+    "email": "felipe@lawd.ufs.br",
+    "papel": "palestrante",
+    "afiliacao": "LAWD",
+    "anosNaLawd": 4,
+    "criadoEm": "2026-11-01T12:05:00.000Z",
+    "senhaHash": "$2b$10$/YwL91EeuYbyvp1GIL4DU.p67YtqarQ2QogZ10ZraalhUV54Dpmru"
+  },
+  {
+    "id": "usr-002",
+    "nome": "Gyannine Candeias",
+    "email": "gyannine@lawd.ufs.br",
+    "papel": "palestrante",
+    "afiliacao": "LAWD",
+    "anosNaLawd": 2,
+    "criadoEm": "2026-11-01T12:08:00.000Z",
+    "senhaHash": "$2b$10$DxGo9yS/aOs6Bcs3mfoVtujvKQgovu6iKJ3WveuDCHYS9nutq6ZNW"
+  },
+  {
+    "id": "usr-003",
+    "nome": "Enzo Maia",
+    "email": "enzo@lawd.ufs.br",
+    "papel": "palestrante",
+    "afiliacao": "LAWD",
+    "anosNaLawd": 2,
+    "criadoEm": "2026-11-01T12:10:00.000Z",
+    "senhaHash": "$2b$10$OeSwWJrNyV.zSUgCCJISfu2gM938YdoH777SFX6IqKT20OjcYxjWG"
+  },
+  {
+    "id": "usr-004",
+    "nome": "Lauane Morais",
+    "email": "lauane@lawd.ufs.br",
+    "papel": "monitor",
+    "afiliacao": "LAWD",
+    "anosNaLawd": 2,
+    "criadoEm": "2026-11-01T12:12:00.000Z",
+    "senhaHash": "$2b$10$ygRo/R6V6cXdW1FPac4sWuTqsGYwDfUPsxEcUza.4FDHqr5q/MpkG"
+  },
+  {
+    "id": "usr-005",
+    "nome": "Pedro Paulo",
+    "email": "pedro@lawd.ufs.br",
+    "papel": "monitor",
+    "afiliacao": "LAWD",
+    "anosNaLawd": 2,
+    "criadoEm": "2026-11-01T12:14:00.000Z",
+    "senhaHash": "$2b$10$5ql6F2kKqFihCsnpIrJ/Dewp2EmoFiJ5VAe0H/RS2L7zB0Uk0p.pG"
+  },
+  {
+    "id": "usr-006",
+    "nome": "Bruno Saint Clair",
+    "email": "bruno@lawd.ufs.br",
+    "papel": "monitor",
+    "afiliacao": "LAWD",
+    "anosNaLawd": 2,
+    "criadoEm": "2026-11-01T12:16:00.000Z",
+    "senhaHash": "$2b$10$yX20UF0H9qzMp/mPcwrLbuH87133S46LyJyFXd0SCpQyenfCpO60i"
+  },
+  {
+    "id": "usr-007",
+    "nome": "Diego Participante",
+    "email": "participante@gmail.com",
+    "papel": "participante",
+    "afiliacao": "externo",
+    "anosNaLawd": 0,
+    "criadoEm": "2026-11-02T09:00:00.000Z",
+    "senhaHash": "$2b$10$2O.t66GtHAamS0AqWXQGreeGbj5drcsMupvxFBUynYxpwGARKbbxi"
+  }
+]
